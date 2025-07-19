@@ -13,3 +13,33 @@ This project focuses on detecting anomalies in HVAC (Heating, Ventilation, and A
   - Visualizing anomalies
 
 
+## 🧠 Key Concepts Used
+
+- Time series decomposition
+- Seasonality and trend detection
+- Forecast confidence intervals
+- Residual analysis for anomaly detection
+
+## 🛠️ Tech Stack
+
+- Python
+- Prophet
+- Pandas, Matplotlib, Seaborn
+- Jupyter Notebook
+
+## 📈 Results
+
+The model forecasts expected HVAC energy consumption and flags data points that significantly deviate from the prediction intervals as anomalies. These insights can help facilities teams monitor operational efficiency and prevent breakdowns.
+
+## 🔧 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Srijon2107/hvac-anomaly-detection.git
+cd hvac-anomaly-detection
+
+# Install dependencies
+pip install -r requirements.txt
+
+
+
