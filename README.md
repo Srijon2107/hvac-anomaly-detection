@@ -12,5 +12,4 @@ This project focuses on detecting anomalies in HVAC (Heating, Ventilation, and A
   - Anomaly detection based on residuals (forecast vs. actual)
   - Visualizing anomalies
 
-## 📁 Folder Structure
 
