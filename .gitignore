@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variable files
+.env
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Output & export folders
+*.pkl
+*.joblib
+*.h5
+*.csv
+*.xlsx
+*.json
+
+# Plotting or report output
+/visuals/
+/exports/
+/output/
+/reports/
+
+
